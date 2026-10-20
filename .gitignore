@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PhD Thesis - Private Materials
+# Contains thesis document, personal notes, and materials that should not be publicly shared
+thesis_materials/
+
+# Temporary and backup files
+*.tmp
+*.bak
+*~
+.DS_Store
